@@ -21,7 +21,7 @@
 
   </head>
   <body>
-    <?php include 'heder.php'; ?>
+    <?php include 'header.php'; ?>
 
 
     <section id ="feature" class="section-padding">
@@ -75,7 +75,7 @@ Ko jednom dođe i proba našu slatku ponudu, vraća se po jos!<br><br><br>
       </div>
     </section>
 
-    <?php include 'futer.php'; ?>
+    <?php include 'footer.php'; ?>
 
 
 
