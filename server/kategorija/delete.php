@@ -1,5 +1,4 @@
 <?php
-
     require '../broker.php';
     $broker=Broker::getBroker();
     $id=$_POST['id'];
@@ -10,7 +9,7 @@
             'error'=>'los ID'
         ]);
     }else{
-        echo json_encode($broker->izmeni('delete from proizvod where id='.$id));
+        echo json_encode($broker->izmeni('delete from kategorija where id='.$id));
     }
 
 ?> 
