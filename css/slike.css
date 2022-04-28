@@ -2,26 +2,27 @@
     float: left;
     width: 25%;
     padding: 5px;
-  }
+}
 
+.column {
+    flex: 25%;
+    padding: 5px;
+}
 
-  .row::after {
+.row {
+    display: flex;
+}
 
+.row::after {
     content: "";
     clear: both;
     display: table;
-  }
-  .row {
-    display: flex;
+}
 
-  }
+@media screen and (max-width: 500px) {
 
-  .column {
-    flex: 25%;
-    padding: 5px;
-  }
-  @media screen and (max-width: 500px) {
     .column {
       width: 100%;
     }
-  }
+
+}
