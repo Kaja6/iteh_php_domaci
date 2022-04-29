@@ -7,7 +7,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Torte i kolaci</title>
+    <title>Bobica</title>
+    <link rel="icon" href="../iteh1/img/maliLogo.png">
     <meta name="description" content="">
     <meta name="keywords" content="">
 
@@ -30,35 +31,26 @@
           <div class="header-section text-center">
            
             <div class="col-md-12 text-center">
-              <img src="img/logo.jpg" class="img img-square"> <br><br>
+              <img src="img/logo.png" class="img img-square"> <br><br>
             </div>
-           <p>Nas tim je sastavljen od vrhunskih majstora koji se svakodnevno usavrsavaju da bismo za vas stvarali magicne slatkise koji se pamte do kraja zivota. <br>
-
-Da bismo ispunili sve vase slatke mastarije, pratimo najnovije trendove, usavrsvamo se i ucimo od najboljih svetskih poslasticara.<br>
-
-Na prvom mestu nam je zadovoljstvo, kao i sigurnost nasih kupaca pa primenjujemo sistem bezbednosti hrane HACCP. <br>
-
-I zato, torte, kolace pravimo u skladu sa vasim zeljama i potrebama, uz strucne savete nasih poslasticara i dekoratera koji ce vam u svakom trenutku objasniti sve sto vas interesuje.<br>
-
-Ukoliko ste ljubitelji domacih ukusa kolaca i torti, poslasticarnica Torte i kolaci pravo je mesto za prepustanje slatkim zadovoljstvima.<br> 
-
-Ko jednom dođe i proba našu slatku ponudu, vraća se po jos!<br><br><br>
-
-
-
- „Online kolaci“</p>
+           <p>" Poslastičarnica Bobica " otvorena 2005. godine, danas je jedna od najposećenijih poslastičarnica na Novom Beogradu. 
+             Za sve one koji veruju da sreću čine sitna zadovoljstva, Bobica je tu da postane nezaobilazni deo dana, vaša slatka, 
+             svakodnevna radost. Bobica je ušuškana u jedan od najlepših delova Novog Beograda, u A Blok, u ulici Uroša Martinovića 15. 
+             Pokrenuta je kao porodični biznis koji predstavlja udružena znanja i iskustva iz oblasti poslastičarstva, dizajna i 
+             marketinga porodice Milanov.
+</p>
 <hr class="bottom-line">
   
   <div class="col-md-12 text-center">
     <div class="row">
         <div class="column">
+            <img src="img/oNama.jpg"  style="width:100%">
+        </div>
+        <div class="column">
+            <img src="img/krofne.jpg"  style="width:100%">
+        </div>
+        <div class="column">
             <img src="img/pravi.jpg"  style="width:100%">
-        </div>
-        <div class="column">
-            <img src="img/torta.jpg"  style="width:100%">
-        </div>
-        <div class="column">
-            <img src="img/slika.jpg"  style="width:100%">
         </div>
         <div class="column">
             <img src="img/kolac.jpg"  style="width:100%">

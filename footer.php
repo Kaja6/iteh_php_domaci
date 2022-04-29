@@ -2,7 +2,7 @@
 <footer id="footer" class="footer">
   <div class="container text-center">
 
-  <h3>Pratite nas na drustvenim mrezama</h3>
+  <h3>Možete nas zapratiti i na društvenim mrežama</h3>
   <ul class="social-links">
   <!DOCTYPE html>
 <html>
@@ -19,6 +19,6 @@
 </body>
 </html>
 </ul>
-  All rights reserved, Online kolaci, 2022
+  All rights reserved, Poslastičarnica Bobica, 2022
   </div>
 </footer>

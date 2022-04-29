@@ -4,7 +4,7 @@
 
 <div class='container mt-2'>
     <h1 class='text-center text-dark'>
-        Torte i kolaci
+        Vaši slatkiši
     </h1>
     <div class="row mt-2">
         <div class="col-3">
@@ -14,7 +14,7 @@
             </select>
         </div>
         <div class="col-6">
-            <input onchange="render()" class="form-control" type="text" id="search" placeholder="search...">
+            <input onchange="render()" class="form-control" type="text" id="search" placeholder="pretraži po kategoriji...">
         </div>
         <div class="col-3">
             <select onchange="render()" class="form-control" id="kategorije">

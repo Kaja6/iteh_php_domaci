@@ -13,7 +13,8 @@
     <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/slike.css">
-    <title>Kolaci</title>
+    <title>Bobica</title>
+    <link rel="icon" href="../iteh1/img/maliLogo.png">
 </head>
 
 
@@ -21,19 +22,19 @@
  
 
     <nav class="navbar navbar-expand-lg border navbar-dark sticky-top bg-dark">
-        <a class="navbar-brand" href="index.php">Online kolaci</a>
+        <a class="navbar-brand" href="index.php">Dobro došli u online poslastičarnicu Bobica!</a>
 
         <div class="navbar-collapse collapse">
             <ul class="navbar-nav mx-auto">
                
                 <li class="nav-item mx-auto">
-                    <a class="nav-link" href="index.php">Home</a>
-                </li>
-                <li class="nav-item mx-auto">
-                    <a class="nav-link" href="porudzbine.php">Porudzbina</a>
+                    <a class="nav-link" href="index.php">O nama</a>
                 </li>
                 <li class="nav-item mx-auto">
                     <a class="nav-link" href="kreirajPorudzbinu.php">Kreiraj porudzbinu</a>
+                </li>
+                <li class="nav-item mx-auto">
+                    <a class="nav-link" href="porudzbine.php">Porudzbina</a>
                 </li>
                 <li class="nav-item mx-auto">
                     <a class="nav-link" href="kategorije.php">Kategorije</a>
